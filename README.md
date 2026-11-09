@@ -2,7 +2,7 @@
 
 * Name: Nikhil Sheth
 * GitHub username: nsheth19
-* GitHub Repository URL: 
+* GitHub Repository URL: https://github.com/upenn-embedded/ese5190f26-ws1-sheth.git
 * Description of hardware: (embedded hardware, laptop, etc) ATmega, macbook pro with M2
 
 I1
