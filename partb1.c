@@ -30,7 +30,7 @@ int main(void)
 {
     /* TODO: Create tasks and make some magic*/
 
-    #define C_LONG_TEST 0
+    #define C_LONG_TEST 1
 
     // Declare the task functions
     void TaskA(void *pvParameters);
